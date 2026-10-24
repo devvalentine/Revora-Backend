@@ -2,8 +2,6 @@ node_modules/
 dist/
 coverage/
 *.log
-.env
-.env.*
 !.env.example
 npm-debug.log*
 yarn-debug.log*
@@ -13,5 +11,7 @@ pnpm-debug.log*
 Thumbs.db
 reports/mutation/
 .stryker-tmp/
+branch_structure.json
 .tools/
 .opencode
+config.bat
